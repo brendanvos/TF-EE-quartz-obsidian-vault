@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "thelulzy.github.io",
+    baseUrl: "thelulzy.github.io/TF-EE-quartz-obsidian-vault",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
