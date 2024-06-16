@@ -1,4 +1,4 @@
-[Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1035893859709878414)the new image with the following caption:
+[Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1035893859709878414) the new image with the following caption:
 > Hi there.!
 > Looks like OSPUZE had some extra candy in the bag.!!!
 
